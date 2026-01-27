@@ -1,0 +1,25 @@
+<svg id="svg" fill="#019ddf" stroke="#019ddf" width="200" height="200" version="1.1" viewBox="144 144 512 512" xmlns="http://www.w3.org/2000/svg">
+    <g id="IconSvg_bgCarrier" stroke-width="0"></g>
+    <g id="IconSvg_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC" stroke-width="0">
+      <defs xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="a">
+   <path d="m148.09 284h503.81v231h-503.81z"></path>
+  </clipPath>
+ </defs>
+<g xmlns="http://www.w3.org/2000/svg" clip-path="url(#a)">
+  <path d="m318.8 487.14c44.016 19.629 98.145 10.113 131.45-25.578 24.387 17.844 57.695 17.25 81.488-0.59375 126.1 95.172 179.63-118.96 23.793-79.707-13.086-37.473-54.129-55.914-91.008-41.043-42.23-73.758-155.84-73.758-197.48 0.59375-141.57-58.293-162.39 145.73-30.336 133.83 0 46.395 67.215 55.316 82.086 12.492z" fill-rule="evenodd"></path>
+ </g>
+
+      </g>
+     <g id="IconSvg_iconCarrier">
+      <defs xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="a">
+   <path d="m148.09 284h503.81v231h-503.81z"></path>
+  </clipPath>
+ </defs>
+<g xmlns="http://www.w3.org/2000/svg" clip-path="url(#a)">
+  <path d="m318.8 487.14c44.016 19.629 98.145 10.113 131.45-25.578 24.387 17.844 57.695 17.25 81.488-0.59375 126.1 95.172 179.63-118.96 23.793-79.707-13.086-37.473-54.129-55.914-91.008-41.043-42.23-73.758-155.84-73.758-197.48 0.59375-141.57-58.293-162.39 145.73-30.336 133.83 0 46.395 67.215 55.316 82.086 12.492z" fill-rule="evenodd"></path>
+ </g>
+
+      </g>
+      </svg>
